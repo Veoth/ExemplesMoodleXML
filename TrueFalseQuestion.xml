@@ -1,0 +1,18 @@
+<question type="truefalse">
+<name>
+	<text>Vraie ou faux</text>
+	</name>
+	<questiontext format="html">
+		<text>Fait-il beau aujourd'hui ?</text>
+	</questiontext>
+	<penalty>1</penalty>
+	<defaultgrade>1</defaultgrade>
+ <answer fraction="100">
+    <text>Oui</text>
+    <feedback><text>Ooops!</text></feedback>
+ </answer>
+ <answer fraction="0">
+    <text>Non</text>
+    <feedback><text>Correct!</text></feedback>
+ </answer>
+ </question>
